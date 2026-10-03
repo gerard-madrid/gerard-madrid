@@ -18,5 +18,6 @@
   leadership
   adaptability
   honesty
+  teamwork
   
   
