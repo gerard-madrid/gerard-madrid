@@ -11,4 +11,11 @@
 - -*Statistics and mathematics*'
 
   MY projects are in my profile so you can see them
+
+
+  ## Soft skills:
+  Communication
+  leadership
+  adaptability 
+  
   
