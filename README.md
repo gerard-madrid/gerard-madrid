@@ -16,6 +16,7 @@
   ## Soft skills:
   Communication
   leadership
-  adaptability 
+  adaptability
+  honesty
   
   
