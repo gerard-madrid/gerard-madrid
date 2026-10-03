@@ -19,5 +19,6 @@
   adaptability
   honesty
   teamwork
+  self-reflection
   
   
